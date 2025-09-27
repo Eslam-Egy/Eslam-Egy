@@ -23,13 +23,10 @@ I enjoy building mobile apps, working with embedded systems, and exploring smart
 
 ## 🛠️ Technical Skills
 
-<code><img height="20" alt="Flutter" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"></code>
-<code><img height="20" alt="Dart" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"></code>
-<code><img height="20" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
-<code><img height="20" alt="C/C++" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
-<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" alt="MATLAB" src="https://raw.githubusercontent.com/github/explore/main/topics/matlab/matlab.png"></code>
-<code><img height="20" alt="IoT" src="https://raw.githubusercontent.com/github/explore/main/topics/iot/iot.png"></code>
+- Dart
+- Python
+- C#
+- C++
 
 ---
 
