@@ -1,45 +1,66 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">
+  <img width="80%" alt="Welcome to my GitHub!" src="./assets/gh-readme-header.png" />
+</p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+# 👋 Welcome to My GitHub Profile
 
-**About me**
+I'm a Telecommunications & Electronics Engineer and a passionate Flutter Developer.  
+I enjoy building mobile apps, working with embedded systems, and exploring smart technologies.
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+---
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+## 👨‍🔧 About Me
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- 🎓 Graduate in Telecommunications & Electronics Engineering  
+- 📱 Mobile App Developer using Flutter & Dart  
+- 🔧 Working on cross-platform apps, embedded systems, and IoT projects  
+- 📡 Interested in AI applications in networks and industrial automation  
+- 💬 Feel free to reach out via [GitHub Issues](https://github.com/yourusername/yourusername/issues)
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+---
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+## 🛠️ Technical Skills
 
+<code><img height="20" alt="Flutter" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"></code>
+<code><img height="20" alt="Dart" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"></code>
+<code><img height="20" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
+<code><img height="20" alt="C/C++" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
+<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" alt="MATLAB" src="https://raw.githubusercontent.com/github/explore/main/topics/matlab/matlab.png"></code>
+<code><img height="20" alt="IoT" src="https://raw.githubusercontent.com/github/explore/main/topics/iot/iot.png"></code>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+---
+
+## 📊 GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" /> |
 | ------------- | ------------- |
 
-#### Top Repositories
+---
 
+## 📌 Featured Projects
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/yourusername/flutter-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=flutter-app&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/yourusername/iot-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=iot-system&theme=radical" />
 </a>
 
-<br />
-<br />
+---
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+## 📫 Connect With Me
+
+<a href="https://twitter.com/yourhandle">
+  <img align="right" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://linkedin.com/in/yourhandle">
+  <img align="right" alt="LinkedIn" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
 </a>
+<a href="https://github.com/yourusername">
+  <img align="right" alt="GitHub" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/github.svg" />
+</a>
+
+---
